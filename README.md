@@ -32,4 +32,6 @@ Please fill this form for the dataset request [here](https://forms.gle/NKT9G9VpL
 
 - Ali, S., Dmitrieva, M., Ghatwary, N., Bano, S., et al.: Deep learning for detection and segmentation of artefact and disease instances in gastrointestinal endoscopy. Med. Image Anal. 70, 102002 (2021)
 
+*Please cite below paper as well if you use the code*
+
 - Pandey, P., Tyagi, A., Ambekar, S., & Prathosh, A.P. (2020). Unsupervised Domain Adaptation for Semantic Segmentation of NIR Images Through Generative Latent Search. European Conference on Computer Vision.
