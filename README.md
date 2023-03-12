@@ -4,6 +4,11 @@ EndoUDA: A Modality Independent Segmentation Approach for Endoscopy Imaging
 **Contributors**
 [Numan Celik](numancelik34@gmail.com), [Sharib Ali](ali.sharib2002@gmail.com)
 
+
+**Code**
+The code is based on original implementation of [GLSS](https://github.com/ambekarsameer96/GLSS)
+
+
 **Dataset (avaliable on request)**
 
 Please fill this form for the dataset request [here](https://forms.gle/NKT9G9VpLWtT17wAA). Please allow us at least a week to respond to your request.
@@ -26,3 +31,5 @@ Please fill this form for the dataset request [here](https://forms.gle/NKT9G9VpL
 - Borgli, H., Thambawita, V., Smedsrud, P.H., Hicks, S., et al.: HyperKvasir, a comprehensive multi-class image and video dataset for gastrointestinal endoscopy. Sci. Data 7(1), 1–14 (2020)
 
 - Ali, S., Dmitrieva, M., Ghatwary, N., Bano, S., et al.: Deep learning for detection and segmentation of artefact and disease instances in gastrointestinal endoscopy. Med. Image Anal. 70, 102002 (2021)
+
+- Pandey, P., Tyagi, A., Ambekar, S., & Prathosh, A.P. (2020). Unsupervised Domain Adaptation for Semantic Segmentation of NIR Images Through Generative Latent Search. European Conference on Computer Vision.
