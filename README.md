@@ -19,7 +19,7 @@ Please send your request to [Sharib Ali](ali.sharib2002@gmail.com)
 - BE
 
 
-** Any one using this dataset must cite these papers as parts of images comes from these publications: **
+**Any one using this dataset must cite these papers as parts of images comes from these publications:**
 
 - Celik N., Ali S., Gupta S., Braden B., Rittscher J. (2021) EndoUDA: A Modality Independent Segmentation Approach for Endoscopy Imaging. In: de Bruijne M. et al. (eds) Medical Image Computing and Computer Assisted Intervention – MICCAI 2021. MICCAI 2021. Lecture Notes in Computer Science, vol 12903. Springer, Cham. https://doi.org/10.1007/978-3-030-87199-4_29
 
