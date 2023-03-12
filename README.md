@@ -6,7 +6,7 @@ EndoUDA: A Modality Independent Segmentation Approach for Endoscopy Imaging
 
 **Dataset (avaliable on request)**
 
-Please send your request to [Sharib Ali](ali.sharib2002@gmail.com)
+Please fill this form for the dataset request [here](https://forms.gle/NKT9G9VpLWtT17wAA). Please allow us at least a week to respond to your request.
 
 > Source - target
 
